@@ -1,0 +1,9 @@
+3/19/26
+-- We will create the state space model together
+-- Discussion of ARIMA and Kalman methods
+-- Meeting at 4pm next monday to determine state space model, and split into groups
+
+Taskings:
+All -- look into model/methods 
+Fletcher -- look into state space model
+Jared -- build dataloader
