@@ -1,0 +1,14 @@
+Space: The Final Frontier
+Who will work on this project with you:
+Our group consists of Alice Lundgren, Emmaline McKinnon, Fletcher Murray, Ashley Spencer, and Jared Winn.
+What data source will you use?
+We will use the Kaggle Exoplanet Hunting Dataset found at: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
+Questions you will try to answer,
+We plan to explore strange new worlds and boldly go where no man has gone before. The main purpose of the dataset is to predict whether or not a star has an orbiting exoplanet given the observed brightness. Beyond this, we will expand to a hidden state model, where the brightness is the observation and the planet's orbit is the hidden state. Physical laws can then be applied to determine if the planets are likely to be within inhabitable zones. 
+Techniques you think you will use 
+We will create a state-space model of our system and use a Kalman filter to smooth the data and find patterns in the star brightness. We will also use an ARIMA model to determine the moving average and periodicity of our dataset to estimate the distance of planets. Additionally, we will look into scikit-learn packages to experiment with our data.
+Metrics you expect to use to decide how good your answers are
+We can evaluate the accuracy of our binary classification (planet or no planet), and we can also use our Kalman filter to predict the evolution of the test set’s state in time and compare the differences in predicted and observed brightness. 
+How will you divide the work among the different team members
+We plan to meet each week on Thursday at 10 am to discuss progress and reassign roles. For now, we plan to brainstorm the structure of the state space model and search for more data on exoplanets.
+
