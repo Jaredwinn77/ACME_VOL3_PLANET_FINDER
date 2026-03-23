@@ -1,3 +1,8 @@
+Time Line:
+Peer Review due 6 April
+Presentation 24 April
+
+
 3/19/26
 -- We will create the state space model together
 -- Discussion of ARIMA and Kalman methods
@@ -8,6 +13,20 @@ All -- look into model/methods
 Fletcher -- look into state space model
 Jared -- build dataloader
 
-Time Line:
-Peer Review due 6 April
-Presentation 24 April
+3/23/26
+-- Ashley discovered Scipy.signal -> Welch looks helpful and Alice has experience with it
+-----STATE SPACE MODEL------
+Single theta paramter model of a planet orbiting a star 
+-- Alice did research on the possible errors in the kepler data, error of 20 ppm 
+-- Fletcher: Uniform circular motion -> sin(theta(t)), where theta(t) = sqrt(GM/r^3) * t
+
+Derived a state space model
+
+To do:
+Fletcher/emmaline: extended kalman filter
+Jared: scale arctan term in H and arima
+Ashley: seasonality/write up
+Alice: welch filter
+
+Next meeting 3/30/26 at 4pm
+
