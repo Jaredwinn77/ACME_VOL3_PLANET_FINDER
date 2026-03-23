@@ -7,3 +7,7 @@ Taskings:
 All -- look into model/methods 
 Fletcher -- look into state space model
 Jared -- build dataloader
+
+Time Line:
+Peer Review due 6 April
+Presentation 24 April
