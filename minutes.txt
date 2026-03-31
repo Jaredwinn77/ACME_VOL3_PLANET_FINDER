@@ -28,5 +28,8 @@ Jared: scale arctan term in H and arima
 Ashley: seasonality/write up
 Alice: welch filter
 
-Next meeting 3/30/26 at 4pm
-
+3/30/26 at 4pm
+-- Ashley: Preliminary look at  
+-- Emmaline: Extended Kalman filter set up, will run on the data this week
+-- Alice: Started to estimate radius of orbit using welch algorithm 
+-- Jared: try signal.resample
